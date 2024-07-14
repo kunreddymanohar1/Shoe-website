@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ce81a4e.css",
+    "main.js": "/static/js/main.abbe9a92.js",
+    "static/js/453.088d842b.chunk.js": "/static/js/453.088d842b.chunk.js",
+    "static/media/flipkart.jpg": "/static/media/flipkart.c839832314366f27db89.jpg",
+    "static/media/FOOT.webp": "/static/media/FOOT.ba2cf3673c012fb0ebe1.webp",
+    "static/media/showrom.jpg": "/static/media/showrom.15e6c89aed033686cc71.jpg",
+    "static/media/amazon.jpg": "/static/media/amazon.a749aad449eb059f0ad7.jpg",
+    "static/media/foots.jpg": "/static/media/foots.58f5bfd733a67c254715.jpg",
+    "static/media/nike3.png": "/static/media/nike3.a5d6ab28c99ef97a94b3.png",
+    "static/media/nike5.png": "/static/media/nike5.fc9940cc230bbfb1cbc4.png",
+    "static/media/wnike4.png": "/static/media/wnike4.94325dc58aa472c88f28.png",
+    "static/media/wnike8.png": "/static/media/wnike8.c5eaa84f4efb1176f6f3.png",
+    "static/media/wnike7.png": "/static/media/wnike7.a742d03abc5380ea26a0.png",
+    "static/media/nikk.jpg": "/static/media/nikk.ed83e483e39853e9e008.jpg",
+    "static/media/wnike6.png": "/static/media/wnike6.b5bbcf609ac606f2f00f.png",
+    "static/media/wnike2.png": "/static/media/wnike2.67d10154742815143add.png",
+    "static/media/Shoes.png": "/static/media/Shoes.cf5fa356a59c89168b80.png",
+    "static/media/nike4.png": "/static/media/nike4.3308f90de1fa182dd18c.png",
+    "static/media/wnike5.png": "/static/media/wnike5.d51963966435d6bd6ce6.png",
+    "static/media/wnike3.png": "/static/media/wnike3.5853ad74573070252eac.png",
+    "static/media/wnike1.png": "/static/media/wnike1.b01bd4fd983404c5226b.png",
+    "static/media/nike2.png": "/static/media/nike2.ce82cb15f2b112b769d5.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.7ce81a4e.css.map": "/static/css/main.7ce81a4e.css.map",
+    "main.abbe9a92.js.map": "/static/js/main.abbe9a92.js.map",
+    "453.088d842b.chunk.js.map": "/static/js/453.088d842b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ce81a4e.css",
+    "static/js/main.abbe9a92.js"
+  ]
+}

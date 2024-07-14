@@ -1,0 +1,138 @@
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    overflow: hidden;
+    position: static;
+}
+
+.Nav {
+    background-color: white;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin-block: -60px;
+}
+
+.Nav img {
+    margin-right: 1600px;
+    width: 50px;
+    margin-top: 15px;
+}
+
+.Nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.Nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.Nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.login {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+.login button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.login button:hover {
+    background-color: #45a049;
+}
+
+.para {
+    margin-bottom: 30px;
+}
+
+h1.main {
+    margin-top: 80px;
+    width: 500px;
+    font-size: 100px;
+    margin-left: 100px;
+    height: 500px;
+}
+
+p.main1 {
+    width: 350px;
+    margin-left: 120px;
+}
+
+.btns {
+    margin-left: 120px;
+    margin-bottom: 20px;
+}
+
+.btns .btn1 {
+    background-color: Red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.btn {
+    background-color:white ;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.btns button:hover {
+    background-color: #0073e6;
+}
+
+.shoe img {
+    background-color: white;
+    margin-left: 800px;
+    width: 700px; 
+    margin-top: -900px; 
+    box-shadow: 0px 4px 8px green;
+}
+
+.foot {
+    background-color: white;
+    padding: 20px;
+    margin-right: 540px;
+}
+
+.foot img {
+    width: 100px; 
+    margin-right: 20px; 
+    cursor: pointer;
+}
+
+.foot1 {
+    background-color: black;
+    color: white;
+    padding: 3% 5%;
+    margin-bottom: 0%;
+}
+
+.maxwidth {
+    width: 50%;
+    margin-bottom: 5%;
+}
+
+.mid {
+    text-align: center;
+}
